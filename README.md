@@ -60,9 +60,9 @@ This gives Netflix-style AI recommendations without training a model.
 git clone https://github.com/your-username/ms-list.git
 cd ms-list
 ```
-2️⃣ Install backend dependencies
-3️⃣ Install frontend (MS List) dependencies
-4️⃣ Environment variables
+2️⃣ Install backend dependencies  
+3️⃣ Install frontend (MS List) dependencies  
+4️⃣ Environment variables  
 5️⃣ Run the backend
 ```bash
 cd backend
@@ -98,7 +98,7 @@ If you like the project, consider ⭐ staring the repository!
   <img src="https://img.shields.io/badge/React-18.0-61DAFB?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-6.0-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-Embeddings-412991?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Gemini_Embeddings-4285F4?logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/License-MIT-green" />
 </p>
 
