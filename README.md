@@ -90,7 +90,7 @@ ms-list/
 ### 📜 License
 - This project is open-source and free to use.
 ### 💡 Author
-Created by Prithviraj  
+Created by Prithviraj V Nair  
 If you like the project, consider ⭐ staring the repository!
 
 <p align="center">
