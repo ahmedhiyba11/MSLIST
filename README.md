@@ -9,7 +9,7 @@ It includes personalized watchlists, progress tracking, and an AI-enhanced recom
 
 ### 🔹 User Features
 - Browse movies & shows from the database  
-- Add items to **MS List (Watchlist)**  
+- Add shows to **MS List (Watchlist) or custom watchlist**  
 - Track what you're currently watching  
 - Get smart AI-based recommendations  
 - Explore by genre, popularity & moods  
@@ -29,11 +29,9 @@ It includes personalized watchlists, progress tracking, and an AI-enhanced recom
 ---
 
 ## 🧠 How AI Recommendation Works
-MS List uses **text-embedding vectors** generated from each show's:
-- title  
-- description  
-- summary  
-These vectors are compared using cosine similarity to find the closest matches.  
+MS List uses **text-embedding vectors** generated from each show's: 
+- description   
+These vector are compared using cosine similarity to find the closest matches.  
 This gives Netflix-style AI recommendations without training a model.
 
 ---
@@ -51,7 +49,7 @@ This gives Netflix-style AI recommendations without training a model.
 - Express.js  
 - MongoDB  
 - Mongoose  
-- OpenAI Embeddings API  
+- Gemini Embeddings API  
 
 ---
 
@@ -62,35 +60,33 @@ This gives Netflix-style AI recommendations without training a model.
 git clone https://github.com/your-username/ms-list.git
 cd ms-list
 ```
-2️⃣ Install server dependencies
-3️⃣ Install client dependencies
+2️⃣ Install backend dependencies
+3️⃣ Install frontend (MS List) dependencies
 4️⃣ Environment variables
 5️⃣ Run the backend
 ```bash
-cd server
+cd backend
 nodemon index.js
 ```
 6️⃣ Run the frontend
 ```bash
-cd client
-npm start
+cd MS List
+npm run dev
 ```
 📌 Folder Structure
 ```bash
 ms-list/
- ├── client/            # React Frontend
- ├── server/            # Node + Express Backend
+ ├── MS List/           # React Frontend
+ ├── backend/           # Node + Express Backend
+ │   ├── controllers/   # backend controllers
+ │   ├── middleware/    # backend middlewares
  │   ├── models/        # MongoDB Schemas
  │   ├── routes/        # API Routes
- │   ├── utils/         # Embedding & Similarity Logic
+ │   ├── utils/         # Summary, Embedding & Similarity Logic
  └── README.md
 ```
 ### 🎯 Future Enhancements
-- Multi-genre recommendation engine
-- AI-generated taglines for shows
-- AI-generated taglines for shows
-- Trending analytics dashboard
-- Multi-language support
+- A Community tab
 ### 📜 License
 - This project is open-source and free to use.
 ### 💡 Author
